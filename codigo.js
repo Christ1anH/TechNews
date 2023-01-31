@@ -16,6 +16,6 @@ btn.addEventListener("click",()=>{
 })
 
 ScrollReveal().reveal('.main');
-ScrollReveal().reveal('.news', {delay: 400});
-ScrollReveal().reveal('.card-banner', {delay: 400});
-ScrollReveal().reveal('.card-banner-2', {delay: 400});
+ScrollReveal().reveal('.news', {delay: 300});
+ScrollReveal().reveal('.card-banner', {delay: 300});
+ScrollReveal().reveal('.card-banner-2', {delay: 300});
